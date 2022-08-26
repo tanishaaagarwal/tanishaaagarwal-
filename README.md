@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android, Java, python, javascript**
 
 - 📫 How to reach me **agarwaltanisha0404@gmail.com**
 
