@@ -2,6 +2,7 @@
   Hi there🙋‍♀️
 <h1 align="center">Hi 👋, I'm Tanisha Agarwal</h1>
 <h3 align="center">A passionate learner</h3>
+Pursuing btech computer science, currently in second year. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishaaagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="tanishaaagarwal" /> </p>
 
