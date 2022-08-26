@@ -1,5 +1,5 @@
 # tanishaaagarwal-
-  Hi there🙋‍♀️
+  
 <h1 align="center">Hi 👋, I'm Tanisha Agarwal</h1>
  I always strive to increase my knowledge and skills.
 <h3 align="center">A passionate learner</h3>
