@@ -3,7 +3,7 @@
 <h1 align="center">Hi 🙋‍♀️, I'm Tanisha Agarwal</h1>
  I always strive to increase my knowledge and skills.
 <h3 align="center">A passionate learner</h3>
-Pursuing btech computer science, currently in second year. 
+Pursuing btech computer science, currently in second year. I am always ready to have new experiences and meet new people.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishaaagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="tanishaaagarwal" /> </p>
 
